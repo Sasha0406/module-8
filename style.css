@@ -55,16 +55,16 @@ a {
   padding-top: 20px;
   padding-bottom: 138px;
 }
-.Log-in,
-.Sign-up {
+.log-in,
+.sign-up {
   width: 90px;
   height: 36px;
   border: none;
   background-color: rgba(26, 25, 21, 0);
   margin-bottom: 116px;
 }
-.Log-in:hover,
-.Sign-up:hover {
+.log-in:hover,
+.sign-up:hover {
   border-radius: 18px;
   border: 2px solid #ffffff;
 }
@@ -72,7 +72,7 @@ a {
   font-size: 14px;
   color: #ffffff;
 }
-.logo {
+.logo a {
   font-size: 20px;
   letter-spacing: 1px;
   color: #ffffff;
@@ -138,7 +138,7 @@ a {
   bottom: 0;
   right: 0;
 }
-.TV-icon::after {
+.tv-icon::after {
   background-color: #ff4e50;
   background-image: url('icons/TV-icon.png');
 }
